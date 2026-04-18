@@ -45,22 +45,5 @@ The dataset contains **768 samples** with **8 input features**:
 
 ---
 
-## 📈 Results
-- Training Accuracy: **~77%**  
-- Testing Accuracy: **~80%**
-
----
-
-## 🚀 Features
-- Data preprocessing and normalization  
-- Model training and evaluation  
-- Real-time prediction for new input data  
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-```bash
 git clone <your-repo-link>
 cd diabetes-prediction
